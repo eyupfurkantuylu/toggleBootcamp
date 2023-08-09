@@ -8,7 +8,7 @@ Bu proje SwiftUI ile XCode editöründe geliştirilmiştir. Projenin amacı Togg
 
 **Language:** Swift, SwiftUI
 
-**YouTube Videosu:** https://youtu.be/DPQwIx98ZNY
+**YouTube Videosu:** [https://youtu.be/DPQwIx98ZNY](https://www.youtube.com/watch?v=DPQwIx98ZNY)
 
 **Blog:** https://eyupfurkantuylu.com/swiftui-toggle-kullanimi-swiftui-bootcamp-serisi-video-33/
 
